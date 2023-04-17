@@ -1,7 +1,6 @@
 #### Here is my detailed two month study plan for the Tableau Desktolp Specialist exam:
----
-Start date: 17 April 2023 | End date/Exam date: 18 June 2023
----
+
+Start date: 17 April 2023          |         End date/Exam date: 18 June 2023
 
 ## Month 1
 
