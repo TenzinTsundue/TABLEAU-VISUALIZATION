@@ -46,7 +46,8 @@ Start date: 17 April 2023          |         End date/Exam date: 18 June 2023
 * Review all of the topics covered in the previous weeks.
 * Practice creating visualizations, dashboards, and stories using sample data.
 * Take additional practice exams to ensure you are well-prepared for the actual exam.
-* By following this two-month study plan, you should be well-prepared for the Tableau Desktop Specialist exam. Remember to practice regularly and focus on your weaknesses throughout the two months. Good luck!
+
+By following this two-month study plan, you should be well-prepared for the Tableau Desktop Specialist exam. Remember to practice regularly and focus on your weaknesses throughout the two months. Good luck!
 
 
 
