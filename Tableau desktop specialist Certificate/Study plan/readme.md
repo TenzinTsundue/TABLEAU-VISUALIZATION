@@ -1,7 +1,9 @@
 #### Here is my detailed two month study plan for the Tableau Desktolp Specialist exam:
+---
+Start date: 17 April 2023 | End date/Exam date: 18 June 2023
+---
 
 ## Month 1
----
 
 ### Weeek 1: Foundations
 * Review the Tableau Desktop Specialist Exam Guide to understand the topics and concepts covered in the exam.
@@ -25,7 +27,6 @@
 * Practice using advanced calculations to create more complex visualizations.
 
 ## Month 2:
----
 
 ### Week 1: Dashboards and Stories
 * Learn how to create dashboards and combine multiple visualizations into a single view.
