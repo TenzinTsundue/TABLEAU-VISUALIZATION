@@ -4,3 +4,16 @@
 * Download and install Tableau Desktop and explore the interface.
 * Review the Tableau Glossary to familiarize yourself with the terminology used in Tableau.
 * Watch the Tableau Desktop Specialist Exam Preparation video series on the Tableau website to learn about the basic of Tableau Desktio and its functionality.
+
+* Time Limit: 60 mins
+* Check in before 30 mins
+* Multiple choice, Multiple response
+* Number of questions: 45 (40 scored, 5 unsecured)
+* Passing Score: 750 (Score is from 100-1000)
+* Exam Delivery Method: Testing centre and online delivery
+
+*Content Outline*<br>
+Domain 1: Connecting to & Preparing Data (25%)<br>
+Domain 2: Exploring & Analyzing Data (35%)<br>
+Domain 3: Sharing Insights (25%)<br>
+Domain 4: Understanding Tableau Concepts (15%)<br>
