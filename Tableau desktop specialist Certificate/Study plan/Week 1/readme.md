@@ -4,7 +4,8 @@
 * Download and install Tableau Desktop and explore the interface.
 * Review the Tableau Glossary to familiarize yourself with the terminology used in Tableau.
 * Watch the Tableau Desktop Specialist Exam Preparation video series on the Tableau website to learn about the basic of Tableau Desktio and its functionality.
-
+---
+### Review Tableau Desktop Specialist Exam Guide [link](https://github.com/TenzinTsundue/TABLEAU-VISUALIZATION/blob/main/Tableau%20desktop%20specialist%20Certificate/Study%20plan/Week%201/TableauDesktopSpecialist_ExamGuide.pdf)
 * Time Limit: 60 mins
 * Check in before 30 mins
 * Multiple choice, Multiple response
