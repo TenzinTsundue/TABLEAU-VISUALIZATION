@@ -20,4 +20,4 @@ Tableau workspace area
 * Marks Card
 * Worksheet
 
-[image:C426A407-CDBA-4F5A-B4DF-A59F31ECCFB3-3866-00000BB7253B895A/image_01_002.jpg]
+
